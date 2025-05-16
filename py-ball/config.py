@@ -1,0 +1,16 @@
+SCREEN_WIDTH = 570
+SCREEN_HEIGHT = 960
+FPS = 60
+
+BALL_RADIUS = 30
+GRAVITY = 0.5
+REBOUND_SPEED = -20
+
+CIRCLE_RADIUS = 250
+CIRCLE_SPEED = 1
+
+COLORS = {
+    "background": (10, 10, 30),
+    "ball_red": (255, 50, 50),
+    "circle": (200, 200, 200)
+}
